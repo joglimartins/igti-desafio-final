@@ -1,3 +1,3 @@
 export default {
-  url: 'http://localhost:3001/api/transaction',
+  url: 'https://igti-desafio-final.herokuapp.com/api/transaction',
 };
