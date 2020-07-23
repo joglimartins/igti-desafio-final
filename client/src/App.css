@@ -1,0 +1,18 @@
+.selectDate {
+  display: flex;
+  justify-content: center;
+}
+.selectDate select {
+  width: 200px;
+}
+.form-filter-add {
+  display: flex;
+}
+
+.form-filter-add a {
+  margin-right: 15px;
+}
+
+.list {
+  text-align: left;
+}

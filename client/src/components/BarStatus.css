@@ -1,0 +1,8 @@
+.bar-status {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 10px;
+  border: 1px #ccc solid;
+}
